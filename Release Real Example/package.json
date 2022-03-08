@@ -1,0 +1,18 @@
+{
+  "name": "nidirectheader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rory",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  },
+  "dependencies": {
+    "govuk-frontend": "^4.0.0",
+    "nidirect-frontend": "^2.0.0"
+  }
+}
